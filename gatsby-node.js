@@ -3,7 +3,7 @@
  *
  * See: https://www.gatsbyjs.org/docs/node-apis/
  */
-
+require('events').setMaxListeners(20);
 const path = require('path');
 const _ = require('lodash');
 
