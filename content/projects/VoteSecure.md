@@ -1,7 +1,6 @@
 ---
 date: '2'
 title: 'VoteSecure'
-cover: './Blockchain-voting.png'
 github: 'https://github.com/tungnd237/Blockchain-based-voting'
 tech:
   - Solidity
