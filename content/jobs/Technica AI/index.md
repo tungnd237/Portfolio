@@ -1,5 +1,5 @@
 ---
-date: '2024-02-01'
+date: '2022-12-01'
 title: 'Machine Learning Engineer'
 company: 'Technica AI'
 location: 'Hanoi, Vietnam'
