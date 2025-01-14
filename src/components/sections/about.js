@@ -147,7 +147,7 @@ const About = () => {
               <a href="https://technica.ai/en/">a start-up</a>,{' '}
               <a href="https://www.nab.com.au/">a huge corporation</a>,{' '} 
               <a href="https://ml.postech.ac.kr/"> a research Lab</a>,{' '} and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a school IT department</a>. My
+              <a href="https://scout.camd.northeastern.edu/">a school IT department</a>.
               Currently, my primary focus is conducting research at <a href="https://upstatement.com/">InfoLab at USC</a> 
               {' '} while completing my Master’s degree at USC. In my free time, I enjoy building web applications and preparing for a career as 
               a Software Engineer.
